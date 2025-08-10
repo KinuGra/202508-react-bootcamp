@@ -1,3 +1,5 @@
+import CountButton from "../components/CountButton";
+
 export default function AboutMe() {
   return (
     <>
@@ -10,6 +12,9 @@ export default function AboutMe() {
               <p>{i}</p>
             ))}
           </p>
+        </div>
+        <div className="w-5 border bg-slate-300 text-center">
+          <CountButton />
         </div>
       </div>
     </>
