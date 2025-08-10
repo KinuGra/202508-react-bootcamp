@@ -1,0 +1,1 @@
+- React Router v7以降ではBrowserRouterより新しいルーティング方法がある
