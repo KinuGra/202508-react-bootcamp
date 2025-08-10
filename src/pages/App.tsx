@@ -1,8 +1,10 @@
+import AboutMe from "./About.me"
+
 function App() {
 
   return (
     <>
-      App
+      <AboutMe />
     </>
   )
 }
