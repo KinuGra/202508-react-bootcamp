@@ -1,12 +1,11 @@
-import AboutMe from "./About.me"
+import AboutMe from "./About.me";
 
 function App() {
-
   return (
     <>
       <AboutMe />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
